@@ -711,9 +711,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'You lose !
+  m_Text: 'I lose !
 
-    You can''t defeat me '
+    It never happened before'
 --- !u!222 &1643635609
 CanvasRenderer:
   m_ObjectHideFlags: 0
